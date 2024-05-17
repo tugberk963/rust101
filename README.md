@@ -70,9 +70,12 @@ Iteratör, bir koleksiyon içerisindeki elemanları her seferinde birer tane olm
 
 Iteratör yapısını kullanmak istediğimizde karşımıza 3 farklı kullanım yöntemi çıkar:
 
-.iter(): Nesnelerin referanslarını kullanan Iteratör.
+.iter(): Nesnelerin referanslarını kullanan Iteratör. 
+<br><br/>
 .into_iter(): Nesnelerin kendisini kullanan Iteratör.
+<br><br/>
 .iter_mut(): Nesnelerin değiştirilebilir (mutable) referanslarını kullanan Iteratör.
+<br><br/>
 
 Iteratör yapısını örnek olarak şu şekilde kullanabiliriz:
 
