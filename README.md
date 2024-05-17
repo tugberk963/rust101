@@ -46,8 +46,7 @@ Method Chaining - Yöntem/Metod Zincirleme
 
     Bu kod bize [2, 3, 4] çıktısını verecektir.
 
-Method chaining kullanarak işlemleri tek bir satırda yapabiliriz. 
-
+Method chaining kullanarak işlemleri tek bir satırda yapabilmemiz yanında, 
 Aynı kodu daha okunabilir hale getirmek için satırlara yayabiliriz :
 
     fn main(){
